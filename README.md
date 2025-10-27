@@ -1,52 +1,73 @@
-<div align="right">
-	<a href="https://twitter.com/[TU_USUARIO_TWITTER]" ><img src="https://img.shields.io/twitter/follow/[TU_USUARIO_TWITTER]?style=social"></a>
-	<a href="https://github.com/[TU_USUARIO_GITHUB]" ><img src="https://img.shields.io/github/followers/[TU_USUARIO_GITHUB]?style=social"></a>
-	<a href="https://discord.gg/[TU_INVITACION_DISCORD]" ><img src="https://img.shields.io/discord/[ID_DE_TU_SERVIDOR_DISCORD]?style=social&label=Discord&logo=discord"></a>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0093FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ian+Aaron+Van+Scoit;Bienvenido+a+mi+perfil+de+GitHub!+👋" alt="Typing SVG" />
+</h1>
 
-<h1> Sobre Aarón Van Scoit </h1> 
-
-- 🔭 Estudiante de  Ciencias de la Informática en UPIICSA/IPN.
-- 🌱 Actualmente aprendiendo [Tecnología, ej: Docker, AWS, React].
-- 💻 Apasionado por [Tema, ej: Linux, Desarrollo Web, POO].
-- ⚡ Dato curioso: [Algo sobre ti].
-
-<br><br>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=3092EC&center=true&vCenter=true&width=435&lines=¡Bienvenido+a+mi+perfil!;Me+encanta+el+código;...y+el+café." alt="Typing SVG" /></a>
-</div>
-<br><br>
-
-## 🛠️ Skill Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,fedora,ubuntu,linux,git,vscode,docker&theme=dark" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>También cómodo con:</strong> [ej: SQL, CI/CD, Figma, Notion]
+<p align="center">
+  🎓 <b>Estudiante de Computer Science en UPIICSA – Instituto Politécnico Nacional (IPN)</b>  
+  <br>
+  💡 Apasionado por la programación, la arquitectura de software, la seguridad digital y la ciberseguridad.  
+  <br>
+  🔍 Interesado en el desarrollo backend, APIs, algoritmos y entornos digitales seguros.
 </p>
 
 ---
 
-## 🚀 Proyectos que destaco
+## 🧠 Sobre mí
+- 🌆 Soy de **Ciudad de México (CDMX)** 🇲🇽  
+- 💻 Trabajo principalmente en **Fedora** y **macOS (MacBook Pro M4)**  
+- 🧰 Uso **Git** y **GitHub** para control de versiones y colaboración en proyectos  
+- 🔒 Enfocado en **seguridad digital** y **ciberseguridad aplicada**  
+- 🚀 Siempre explorando nuevas herramientas, lenguajes y paradigmas de desarrollo  
+- 🧩 Estudiante curioso, autodidacta y en constante aprendizaje
 
-<table>
-  <tr>
-        <td align="center" width="33%">
-            <a href="https://github.com/[TU_USUARIO_GITHUB]/[TU_REPO_1]">
-                <img src="[URL_DE_IMAGEN_PROYECTO_1]"
-             alt="[Nombre Proyecto 1]"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>[Nombre Proyecto 1]</b><br/>
-      <sub>[Descripción corta de 1 línea]</sub><br/>
-            🔗 <a href="https://github.com/[TU_USUARIO_GITHUB]/[TU_REPO_1]">Repo</a>
-      <br/>
-      <sub>Tags: [Tag1, Tag2, Tag3]</sub>
-    </td>
-        <td align="center" width="33%">
-      <a href="https
+---
+
+## 💻 Sistemas Operativos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,apple" height="70"/>
+</p>
+
+---
+
+## 🛠️ Lenguajes y Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,spring,git,vscode,html,css,js" />
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+- ☕ Desarrollo con **Spring Boot**
+- 🧩 Diseño y consumo de **APIs REST**
+- 🧮 Profundizando en **estructuras de datos y algoritmos**
+- 🛡️ Fundamentos y prácticas de **ciberseguridad**
+- ⚙️ Mejores prácticas de **seguridad en entornos digitales**
+
+---
+
+## 📊 GitHub Stats
+![Van Scoit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronVanScoit&show_icons=true&theme=onedark)
+---
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronVanScoit/AaronVanScoit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronVanScoit/AaronVanScoit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AaronVanScoit/AaronVanScoit/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+###
+---
+## 🌐 Conéctate conmigo
+<p align="center">
+  <a href="https://github.com/ianvanscoit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> 💬 *“La programación no se trata solo de escribir código, sino de crear soluciones que importan.”*
+
+---
