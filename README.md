@@ -74,6 +74,5 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0093FF&width=435&lines=%F0%9F%92%AC++Si+lo+puedes+imaginar;Lo+puedes+programar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0093FF&width=800&lines=%F0%9F%92%AC++Si+lo+puedes+imaginar%2C+lo+puedes+programar" alt="Typing SVG" />
 </h1>
-
