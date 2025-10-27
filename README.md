@@ -14,11 +14,9 @@
 
 ## 🧠 Sobre mí
 - 🌆 Soy de **Ciudad de México (CDMX)** 🇲🇽  
-- 💻 Trabajo principalmente en **Fedora** y **macOS (MacBook Pro M4)**  
-- 🧰 Uso **Git** y **GitHub** para control de versiones y colaboración en proyectos  
-- 🔒 Enfocado en **seguridad digital** y **ciberseguridad aplicada**  
+- 💻 Trabajo principalmente en **Fedora** y **macOS**  
+- 🔒 Enfocado en **FullStack** y **ciberseguridad**
 - 🚀 Siempre explorando nuevas herramientas, lenguajes y paradigmas de desarrollo  
-- 🧩 Estudiante curioso, autodidacta y en constante aprendizaje
 
 ---
 
@@ -40,17 +38,16 @@
 - ☕ Desarrollo con **Spring Boot**
 - 🧩 Diseño y consumo de **APIs REST**
 - 🧮 Profundizando en **estructuras de datos y algoritmos**
-- 🛡️ Fundamentos y prácticas de **ciberseguridad**
-- ⚙️ Mejores prácticas de **seguridad en entornos digitales**
 
 ---
 
 ## 📊 GitHub Stats
 ![Van Scoit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronVanScoit&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronVanScoit&theme=onedark&hide_border=false&&layout=compact)
 ---
 
 ---
-
+## My contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronVanScoit/AaronVanScoit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronVanScoit/AaronVanScoit/output/pacman-contribution-graph.svg">
