@@ -23,7 +23,7 @@
 
 ## 🧠 Sobre mí
 - 🌆 Soy de **Ciudad de México (CDMX)** 🇲🇽  
-- 💻 Trabajo principalmente en **Fedora** y **macOS**  
+- 💻 Trabajo principalmente en **Linux** y **macOS**  
 - 🔒 Enfocado en **FullStack** y **ciberseguridad**
 - 🚀 Siempre explorando nuevas herramientas, lenguajes y paradigmas de desarrollo  
 
