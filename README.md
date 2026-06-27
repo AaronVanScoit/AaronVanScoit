@@ -30,9 +30,12 @@
 
 ## 🛠️ Lenguajes y Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,spring,git,vscode,html,css,js,deno" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,vscode,html,css,js,deno,postgres" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
 
 
 ## 💻 Sistemas Operativos
@@ -43,10 +46,15 @@
 
 
 ## 📚 Actualmente aprendiendo
-- ☕ Desarrollo con **Spring Boot**
+- ☕ Desarrollo backend con **Java**, **Quarkus** e **Hibernate**
 - 🧩 Diseño y consumo de **APIs REST**
 - 🧮 Profundizando en **estructuras de datos y algoritmos**
 
+
+## 🚀 Proyectos
+
+### 🌐 Binary Brains Hackathon Website *(2025)*
+- Desarrollé el componente **navbar** del sitio oficial del hackathon de Binary Brains, colaborando con un equipo frontend bajo restricciones de tiempo.
 
 
 ## 📊 GitHub Stats
@@ -62,7 +70,6 @@
 </picture>
 
 
-
 ## 🌐 Conéctate conmigo
 <p align="center">
   <a href="https://github.com/AaronVanScoit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -70,7 +77,6 @@
   <a href="https://www.linkedin.com/in/ian-aaron-van-scoit-urtiz-3a2761373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/vanscoit.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
 
 
 <h1 align="center">
